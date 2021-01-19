@@ -1,0 +1,226 @@
+.bg-red {
+    background-color: #ff0000 !important;
+}
+.bg-purple {
+    background-color: #605ca8 !important;
+}	
+.bg-blue {
+    background-color: #0000ff !important;
+}
+.bg-orange {
+    background-color: #ffa500 !important;
+}	
+.bg-green {
+    background-color: #008000 !important;
+}	
+.bg-black {
+    background-color: #000000 !important;
+}			
+	
+.img-circle {
+	background: #ffffff !important;
+}
+.citasPaciente a {
+	color: #ffffff !important;
+}
+.viewProfile a {
+	color: #ffffff !important;
+}
+
+
+
+.greenText{ background-color:green; }
+
+.blueText{ background-color:blue; }
+
+.redText{ background-color:red; }
+
+
+
+
+.medicoEstatus {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+	
+.activoGreen1 {
+    font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+    padding: 0px 12px;
+}
+
+.inactivoRed1 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.activoGreen2 {
+	
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.inactivoRed2 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}	
+.activoGreen3 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.inactivoRed3 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.activoGreen4 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.inactivoRed4 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.activoGreen5 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.inactivoRed5 {
+   
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}	
+.activoGreen6 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.inactivoRed6 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}				
+
+
+.activoGreen7 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.inactivoRed7 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.activoGreen8 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.inactivoRed8 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}	
+.activoGreen9 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.inactivoRed9 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.activoGreen10 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.inactivoRed10 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.activoGreen11 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.inactivoRed11 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}	
+.activoGreen12 {
+ 
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+.inactivoRed12 {
+    
+	font-weight: bold;
+    color: #ffffff !important;
+    font-size: 20px;
+	padding: 0px 12px;
+}
+
+.perfilMedico {
+	 margin-top: 0px;
+}
+
+.totalCitasBox {
+	width : 200px !important;
+}	
